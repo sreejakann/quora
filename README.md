@@ -1,5 +1,5 @@
 # Quora
-Academic project to implement Quora website.
+Academic project to implement Quora website. 
 
 ## 1. Requirements
 - node.js version v6.11.3
